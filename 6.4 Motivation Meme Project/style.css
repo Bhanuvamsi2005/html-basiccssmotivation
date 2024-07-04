@@ -1,0 +1,35 @@
+.photo{
+    border: 5px solid violet;
+    width: 100%;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: violet;
+}
+body{
+    background: black;
+}
+.first{
+color: aliceblue;
+font-family: "Libre Baskerville", serif;
+width: 50% ;
+margin-left: 25%;
+margin-top: 100px;
+text-align: center;
+font-size: 15px;
+}
+.second{
+    background: violet;
+    border: 2px solid violet;
+    color: rgb(3, 8, 12);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-size: small;
+}
+.myphoto{
+    width: 50%;
+    margin-top: 20px;
+    border:3px solid violet;
+}
